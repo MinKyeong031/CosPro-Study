@@ -1,2 +1,2 @@
-# CosPro-Study
-Cos Pro PYTHON 2급 연습
+# Python/CosPro
+CosPro 2급 : Python 공부
